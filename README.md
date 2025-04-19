@@ -10,10 +10,10 @@ Provided some large IMDB test datasets for MySQL for practice purpose.
 
 ### How to setup 
 
-#### 1. Download Datasets:
+#### 1. Download Datasets and Extract Files:
 https://datasets.imdbws.com/
 
-#### 2. Login Mysql CLI:
+#### 2. Login to Mysql CLI:
 
 ```
 mysql --local-infile=1 -u root -p
